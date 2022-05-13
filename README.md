@@ -1,7 +1,7 @@
 # FantasyBert
 An easy-to-use framework for BERT models, with trainers, various NLP tasks and **detailed annonations** for beginnners.
 
-Some code are edit on transformers and FastNLP modules.
+Some code are edited on transformers and FastNLP modules.
 
 This project is **not** for commercial use, and is only for **self-use** to perform various NLP tasks conveniently.
 
@@ -29,7 +29,7 @@ promptbert.py
 #### text classification
 tnews.py
 
-#### named entity recogtion
+#### named entity recognition
 bert-crf sequence labeling
 
 global-pointer nested NER
